@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/15PFkveiWu85ma6ycSKs36gwmAYlvleHJ/view?usp=sharing"  />
+  ![Alt text](https://drive.google.com/uc?id=15PFkveiWu85ma6ycSKs36gwmAYlvleHJ)
 </div>
 
 ###
