@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center">
-  ![Alt text](https://drive.google.com/uc?id=15PFkveiWu85ma6ycSKs36gwmAYlvleHJ)
-</div>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=15PFkveiWu85ma6ycSKs36gwmAYlvleHJ" alt="Alt text" />
+</p>
+
 
 ###
 
