@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## V1.0.1 - 2024-09-15 [To Be Released]
+## V1.0.1 - 2024-09-12 [To Be Released]
 
 ### Added
 - **Automatic Button Interface Close:** When changing between different notes, the button interface will now automatically close upon selecting a note.
@@ -20,6 +20,8 @@ All notable changes to this project will be documented in this file.
 - **Dark Mode and Custom Modes:** Dark mode and a custom mode of your own choice are currently in development.
 - **Toggle Animation for High Performance on Laptops**: Added a feature to toggle animations on or off to enhance performance on laptops, particularly those with limited processing power. This option helps conserve battery life and ensures smoother operation when running multiple applications simultaneously.
 -  Due to high user demand (particularly from students using laptops who have reported that the transcript function consumes a lot of performance), the next patch will allow you to keep recordings and generate transcripts only when you choose to do so.
+- **Hovering Side Navigation:** A new feature will be added where, when a button is clicked, it will be highlighted so you know which page you are on.
+
   
 ### Deprecated
 - Nothing deprecated.
