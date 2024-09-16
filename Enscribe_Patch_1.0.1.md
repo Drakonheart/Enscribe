@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 
 ### Known Bugs
 - Sometimes, if the recording is too fast, it will not synchronize well with the slide presentation.
+- Clicking on link on pdf will result in going to the webpage in the app and user can not go back.
 
 ### Upcoming Features
 - **Dark Mode and Custom Modes:** Dark mode and a custom mode of your own choice are currently in development.
