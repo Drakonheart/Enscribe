@@ -1,4 +1,4 @@
-# Enscribe Patch V1.0.1
+# Enscribe Patch V1.0.2
 
 All notable changes to this project will be documented in this file.
 
