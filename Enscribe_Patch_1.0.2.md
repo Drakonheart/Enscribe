@@ -14,6 +14,8 @@ All notable changes to this project will be documented in this file.
   - **Animations:** Added settings to adjust the speed of animations or turn them off entirely for a smoother experience.
   - **Help & Support:** Added a section to access FAQs, troubleshooting guides, and customer support.
   - **Feedback & Support:** Users can now submit feedback directly through the app to suggest new features or report bugs.
+  - New Privacy Policy. 
+    
 
 
 ### Fixed
