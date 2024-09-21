@@ -1,8 +1,8 @@
-# Enscribe Patch V1.0.2
+# Enscribe Patch V1.0.1
 
 All notable changes to this project will be documented in this file.
 
-## V1.0.1 - 2024-09-12 [To Be Released]
+## V1.0.1 - 2024-09-12 [Released]
 
 ### Added
 - **Automatic Button Interface Close:** When changing between different notes, the button interface will now automatically close upon selecting a note.
